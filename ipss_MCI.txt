@@ -1,0 +1,11 @@
+104.20.0.84		 in :  OWNIP
+104.18.0.0		 in :  OWNIP
+104.25.255.252		 in :  OWNIP
+104.24.0.0		 in :  OWNIP
+104.18.0.1		 in :  OWNIP
+104.16.0.2		 in :  OWNIP
+104.22.0.1		 in :  OWNIP
+104.18.0.2		 in :  OWNIP
+104.20.0.2		 in :  OWNIP
+104.24.0.2		 in :  OWNIP
+
